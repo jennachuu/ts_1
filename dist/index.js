@@ -1,0 +1,11 @@
+"use strict";
+let userName = 'Alice';
+console.log(userName);
+let age = 30;
+console.log(age);
+let isStudent = true;
+console.log(isStudent);
+let emptyValue = null;
+console.log(emptyValue);
+let variable = 'Hello';
+console.log(variable);
